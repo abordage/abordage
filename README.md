@@ -4,6 +4,7 @@
 - [nova-html-card](https://github.com/abordage/nova-html-card) - Displays any html content, e.g. lists, notifications, small custom reports
 
 #### Laravel Packages
+- [eloquent-percentile](https://github.com/abordage/eloquent-percentile) - Median and percentile aggregate functions for Eloquent
 - [laravel-og-images](https://github.com/abordage/laravel-og-images) - Eye-catching Open Graph images
 - [laravel-last-modified](https://github.com/abordage/laravel-last-modified) - Last-Modified header / 304 Not Modified response code
 
