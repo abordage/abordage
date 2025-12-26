@@ -1,7 +1,7 @@
 #### Awesome Lists
 - [awesome-mac](https://github.com/abordage/awesome-mac) - Automated and curated collection of macOS applications and tools
 - [awesome-go](https://github.com/abordage/awesome-go) - Automated and curated collection of Go libraries, tools, and applications
-- [awesome-ai](https://github.com/abordage/awesome-ai) - Automated and curated collection of AI and machine learning projects
+- [awesome-mcp](https://github.com/abordage/awesome-mcp) - Automated and curated collection of MCP servers, clients, and frameworks
 
 #### Laravel Packages
 - [eloquent-percentile](https://github.com/abordage/eloquent-percentile) - Median and percentile aggregate functions for Eloquent
